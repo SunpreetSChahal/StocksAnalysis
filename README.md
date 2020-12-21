@@ -1,2 +1,4 @@
 ## Stock Analysis
-#FINISH
+
+
+Figures and % changes used in some of the analysis were obtained through; https://uk.tradingview.com/
